@@ -6,3 +6,4 @@ infsert a.txft
 666666
 dev update 01
 77777777
+8888888
