@@ -1,1 +1,7 @@
-insert a.txt
+infsert a.txft
+222222
+333333
+444444
+555555
+
+
